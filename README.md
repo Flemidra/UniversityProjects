@@ -4,4 +4,9 @@ The code could be written in spanish language or english (variables).
 If you need a code from this repository you can take it, you dont have to ask me for permission or anything like that.
 So i think thats all. I will be updating the repository if i create new projects. 
 And if this repository help in some sort of way, you can donate in order to help me buy maruchan (cars use gasoline, i use maruchan as fuel to code).
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4JZUHQFH4KDW2
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4JZUHQFH4KDW2">
+<input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
