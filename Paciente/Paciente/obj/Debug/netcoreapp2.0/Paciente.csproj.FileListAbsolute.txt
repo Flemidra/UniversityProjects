@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Paciente\Paciente\bin\Debug\netcoreapp2.0\Paciente.deps.json
+C:\Users\Flemi\source\repos\Paciente\Paciente\bin\Debug\netcoreapp2.0\Paciente.runtimeconfig.json
+C:\Users\Flemi\source\repos\Paciente\Paciente\bin\Debug\netcoreapp2.0\Paciente.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Paciente\Paciente\bin\Debug\netcoreapp2.0\Paciente.dll
+C:\Users\Flemi\source\repos\Paciente\Paciente\bin\Debug\netcoreapp2.0\Paciente.pdb
+C:\Users\Flemi\source\repos\Paciente\Paciente\obj\Debug\netcoreapp2.0\Paciente.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Paciente\Paciente\obj\Debug\netcoreapp2.0\Paciente.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Paciente\Paciente\obj\Debug\netcoreapp2.0\Paciente.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Paciente\Paciente\obj\Debug\netcoreapp2.0\Paciente.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Paciente\Paciente\obj\Debug\netcoreapp2.0\Paciente.dll
+C:\Users\Flemi\source\repos\Paciente\Paciente\obj\Debug\netcoreapp2.0\Paciente.pdb

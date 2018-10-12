@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\bin\Debug\netcoreapp2.0\JuegoAleatorio.deps.json
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\bin\Debug\netcoreapp2.0\JuegoAleatorio.runtimeconfig.json
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\bin\Debug\netcoreapp2.0\JuegoAleatorio.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\bin\Debug\netcoreapp2.0\JuegoAleatorio.dll
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\bin\Debug\netcoreapp2.0\JuegoAleatorio.pdb
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\obj\Debug\netcoreapp2.0\JuegoAleatorio.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\obj\Debug\netcoreapp2.0\JuegoAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\obj\Debug\netcoreapp2.0\JuegoAleatorio.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\obj\Debug\netcoreapp2.0\JuegoAleatorio.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\obj\Debug\netcoreapp2.0\JuegoAleatorio.dll
+C:\Users\Flemi\source\repos\JuegoAleatorio\JuegoAleatorio\obj\Debug\netcoreapp2.0\JuegoAleatorio.pdb
