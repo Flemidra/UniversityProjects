@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\bin\Debug\netcoreapp2.0\AgenciaAutomovilistica.deps.json
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\bin\Debug\netcoreapp2.0\AgenciaAutomovilistica.runtimeconfig.json
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\bin\Debug\netcoreapp2.0\AgenciaAutomovilistica.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\bin\Debug\netcoreapp2.0\AgenciaAutomovilistica.dll
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\bin\Debug\netcoreapp2.0\AgenciaAutomovilistica.pdb
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\obj\Debug\netcoreapp2.0\AgenciaAutomovilistica.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\obj\Debug\netcoreapp2.0\AgenciaAutomovilistica.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\obj\Debug\netcoreapp2.0\AgenciaAutomovilistica.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\obj\Debug\netcoreapp2.0\AgenciaAutomovilistica.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\obj\Debug\netcoreapp2.0\AgenciaAutomovilistica.dll
+C:\Users\Flemi\source\repos\AgenciaAutomovilistica\AgenciaAutomovilistica\obj\Debug\netcoreapp2.0\AgenciaAutomovilistica.pdb

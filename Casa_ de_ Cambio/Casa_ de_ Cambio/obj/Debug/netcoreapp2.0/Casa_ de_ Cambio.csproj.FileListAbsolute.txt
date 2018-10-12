@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\bin\Debug\netcoreapp2.0\Casa_ de_ Cambio.deps.json
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\bin\Debug\netcoreapp2.0\Casa_ de_ Cambio.runtimeconfig.json
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\bin\Debug\netcoreapp2.0\Casa_ de_ Cambio.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\bin\Debug\netcoreapp2.0\Casa_ de_ Cambio.dll
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\bin\Debug\netcoreapp2.0\Casa_ de_ Cambio.pdb
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\obj\Debug\netcoreapp2.0\Casa_ de_ Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\obj\Debug\netcoreapp2.0\Casa_ de_ Cambio.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\obj\Debug\netcoreapp2.0\Casa_ de_ Cambio.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\obj\Debug\netcoreapp2.0\Casa_ de_ Cambio.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\obj\Debug\netcoreapp2.0\Casa_ de_ Cambio.dll
+C:\Users\Flemi\source\repos\Casa_ de_ Cambio\Casa_ de_ Cambio\obj\Debug\netcoreapp2.0\Casa_ de_ Cambio.pdb

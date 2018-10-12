@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Animales\Animales\bin\Debug\netcoreapp2.0\Animales.deps.json
+C:\Users\Flemi\source\repos\Animales\Animales\bin\Debug\netcoreapp2.0\Animales.runtimeconfig.json
+C:\Users\Flemi\source\repos\Animales\Animales\bin\Debug\netcoreapp2.0\Animales.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Animales\Animales\bin\Debug\netcoreapp2.0\Animales.dll
+C:\Users\Flemi\source\repos\Animales\Animales\bin\Debug\netcoreapp2.0\Animales.pdb
+C:\Users\Flemi\source\repos\Animales\Animales\obj\Debug\netcoreapp2.0\Animales.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Animales\Animales\obj\Debug\netcoreapp2.0\Animales.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Animales\Animales\obj\Debug\netcoreapp2.0\Animales.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Animales\Animales\obj\Debug\netcoreapp2.0\Animales.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Animales\Animales\obj\Debug\netcoreapp2.0\Animales.dll
+C:\Users\Flemi\source\repos\Animales\Animales\obj\Debug\netcoreapp2.0\Animales.pdb
