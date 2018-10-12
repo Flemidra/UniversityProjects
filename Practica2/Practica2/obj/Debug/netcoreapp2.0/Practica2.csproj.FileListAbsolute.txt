@@ -1,0 +1,11 @@
+c:\users\flemi\source\repos\Practica2\Practica2\bin\Debug\netcoreapp2.0\Practica2.deps.json
+c:\users\flemi\source\repos\Practica2\Practica2\bin\Debug\netcoreapp2.0\Practica2.runtimeconfig.json
+c:\users\flemi\source\repos\Practica2\Practica2\bin\Debug\netcoreapp2.0\Practica2.runtimeconfig.dev.json
+c:\users\flemi\source\repos\Practica2\Practica2\bin\Debug\netcoreapp2.0\Practica2.dll
+c:\users\flemi\source\repos\Practica2\Practica2\bin\Debug\netcoreapp2.0\Practica2.pdb
+c:\users\flemi\source\repos\Practica2\Practica2\obj\Debug\netcoreapp2.0\Practica2.csprojResolveAssemblyReference.cache
+c:\users\flemi\source\repos\Practica2\Practica2\obj\Debug\netcoreapp2.0\Practica2.csproj.CoreCompileInputs.cache
+c:\users\flemi\source\repos\Practica2\Practica2\obj\Debug\netcoreapp2.0\Practica2.AssemblyInfoInputs.cache
+c:\users\flemi\source\repos\Practica2\Practica2\obj\Debug\netcoreapp2.0\Practica2.AssemblyInfo.cs
+c:\users\flemi\source\repos\Practica2\Practica2\obj\Debug\netcoreapp2.0\Practica2.dll
+c:\users\flemi\source\repos\Practica2\Practica2\obj\Debug\netcoreapp2.0\Practica2.pdb

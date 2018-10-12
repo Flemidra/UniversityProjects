@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\bin\Debug\netcoreapp2.0\PreParcial.deps.json
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\bin\Debug\netcoreapp2.0\PreParcial.runtimeconfig.json
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\bin\Debug\netcoreapp2.0\PreParcial.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\bin\Debug\netcoreapp2.0\PreParcial.dll
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\bin\Debug\netcoreapp2.0\PreParcial.pdb
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\obj\Debug\netcoreapp2.0\PreParcial.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\obj\Debug\netcoreapp2.0\PreParcial.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\obj\Debug\netcoreapp2.0\PreParcial.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\obj\Debug\netcoreapp2.0\PreParcial.dll
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\obj\Debug\netcoreapp2.0\PreParcial.pdb
+C:\Users\Flemi\source\repos\PreParcial\PreParcial\obj\Debug\netcoreapp2.0\PreParcial.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.0\Polynomial.deps.json
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.0\Polynomial.runtimeconfig.json
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.0\Polynomial.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.0\Polynomial.dll
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.0\Polynomial.pdb
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.0\Polynomial.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.0\Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.0\Polynomial.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.0\Polynomial.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.0\Polynomial.dll
+C:\Users\Flemi\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.0\Polynomial.pdb
