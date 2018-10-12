@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Constructores\Constructores\bin\Debug\netcoreapp2.0\Constructores.deps.json
+C:\Users\Flemi\source\repos\Constructores\Constructores\bin\Debug\netcoreapp2.0\Constructores.runtimeconfig.json
+C:\Users\Flemi\source\repos\Constructores\Constructores\bin\Debug\netcoreapp2.0\Constructores.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Constructores\Constructores\bin\Debug\netcoreapp2.0\Constructores.dll
+C:\Users\Flemi\source\repos\Constructores\Constructores\bin\Debug\netcoreapp2.0\Constructores.pdb
+C:\Users\Flemi\source\repos\Constructores\Constructores\obj\Debug\netcoreapp2.0\Constructores.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Constructores\Constructores\obj\Debug\netcoreapp2.0\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Constructores\Constructores\obj\Debug\netcoreapp2.0\Constructores.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Constructores\Constructores\obj\Debug\netcoreapp2.0\Constructores.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Constructores\Constructores\obj\Debug\netcoreapp2.0\Constructores.dll
+C:\Users\Flemi\source\repos\Constructores\Constructores\obj\Debug\netcoreapp2.0\Constructores.pdb

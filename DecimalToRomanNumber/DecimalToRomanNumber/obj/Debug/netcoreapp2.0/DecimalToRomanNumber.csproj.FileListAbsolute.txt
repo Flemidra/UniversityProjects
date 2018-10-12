@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\bin\Debug\netcoreapp2.0\DecimalToRomanNumber.deps.json
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\bin\Debug\netcoreapp2.0\DecimalToRomanNumber.runtimeconfig.json
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\bin\Debug\netcoreapp2.0\DecimalToRomanNumber.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\bin\Debug\netcoreapp2.0\DecimalToRomanNumber.dll
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\bin\Debug\netcoreapp2.0\DecimalToRomanNumber.pdb
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\obj\Debug\netcoreapp2.0\DecimalToRomanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\obj\Debug\netcoreapp2.0\DecimalToRomanNumber.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\obj\Debug\netcoreapp2.0\DecimalToRomanNumber.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\obj\Debug\netcoreapp2.0\DecimalToRomanNumber.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\obj\Debug\netcoreapp2.0\DecimalToRomanNumber.dll
+C:\Users\Flemi\source\repos\DecimalToRomanNumber\DecimalToRomanNumber\obj\Debug\netcoreapp2.0\DecimalToRomanNumber.pdb
