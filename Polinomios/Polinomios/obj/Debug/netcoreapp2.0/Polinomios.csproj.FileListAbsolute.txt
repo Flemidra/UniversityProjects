@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\bin\Debug\netcoreapp2.0\Polinomios.deps.json
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\bin\Debug\netcoreapp2.0\Polinomios.runtimeconfig.json
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\bin\Debug\netcoreapp2.0\Polinomios.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\bin\Debug\netcoreapp2.0\Polinomios.dll
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\bin\Debug\netcoreapp2.0\Polinomios.pdb
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\obj\Debug\netcoreapp2.0\Polinomios.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\obj\Debug\netcoreapp2.0\Polinomios.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\obj\Debug\netcoreapp2.0\Polinomios.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\obj\Debug\netcoreapp2.0\Polinomios.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\obj\Debug\netcoreapp2.0\Polinomios.dll
+C:\Users\Flemi\source\repos\Polinomios\Polinomios\obj\Debug\netcoreapp2.0\Polinomios.pdb

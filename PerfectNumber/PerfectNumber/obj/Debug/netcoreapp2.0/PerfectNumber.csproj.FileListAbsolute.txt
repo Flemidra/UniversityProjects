@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.0\PerfectNumber.deps.json
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.0\PerfectNumber.runtimeconfig.json
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.0\PerfectNumber.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.0\PerfectNumber.dll
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp2.0\PerfectNumber.pdb
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.0\PerfectNumber.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.0\PerfectNumber.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.0\PerfectNumber.dll
+C:\Users\Flemi\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp2.0\PerfectNumber.pdb

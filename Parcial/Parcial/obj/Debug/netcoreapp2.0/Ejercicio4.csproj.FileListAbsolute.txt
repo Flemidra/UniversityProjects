@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Ejercicio4.deps.json
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Ejercicio4.runtimeconfig.json
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Ejercicio4.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Ejercicio4.dll
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Ejercicio4.pdb
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Ejercicio4.dll
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Ejercicio4.pdb
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Ejercicio4.csprojResolveAssemblyReference.cache

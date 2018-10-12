@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Parcial.deps.json
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Parcial.runtimeconfig.json
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Parcial.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Parcial.dll
+C:\Users\Flemi\source\repos\Parcial\Parcial\bin\Debug\netcoreapp2.0\Parcial.pdb
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Parcial.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Parcial.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Parcial.dll
+C:\Users\Flemi\source\repos\Parcial\Parcial\obj\Debug\netcoreapp2.0\Parcial.pdb
