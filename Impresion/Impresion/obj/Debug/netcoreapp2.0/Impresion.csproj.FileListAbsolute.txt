@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Impresion\Impresion\bin\Debug\netcoreapp2.0\Impresion.deps.json
+C:\Users\Flemi\source\repos\Impresion\Impresion\bin\Debug\netcoreapp2.0\Impresion.runtimeconfig.json
+C:\Users\Flemi\source\repos\Impresion\Impresion\bin\Debug\netcoreapp2.0\Impresion.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Impresion\Impresion\bin\Debug\netcoreapp2.0\Impresion.dll
+C:\Users\Flemi\source\repos\Impresion\Impresion\bin\Debug\netcoreapp2.0\Impresion.pdb
+C:\Users\Flemi\source\repos\Impresion\Impresion\obj\Debug\netcoreapp2.0\Impresion.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Impresion\Impresion\obj\Debug\netcoreapp2.0\Impresion.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Impresion\Impresion\obj\Debug\netcoreapp2.0\Impresion.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Impresion\Impresion\obj\Debug\netcoreapp2.0\Impresion.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Impresion\Impresion\obj\Debug\netcoreapp2.0\Impresion.dll
+C:\Users\Flemi\source\repos\Impresion\Impresion\obj\Debug\netcoreapp2.0\Impresion.pdb

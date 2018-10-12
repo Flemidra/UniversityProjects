@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.deps.json
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.runtimeconfig.json
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.dll
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.pdb
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.dll
+C:\Users\Flemi\source\repos\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.pdb

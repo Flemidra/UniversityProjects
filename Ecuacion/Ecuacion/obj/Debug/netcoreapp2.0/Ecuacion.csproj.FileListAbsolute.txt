@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\bin\Debug\netcoreapp2.0\Ecuacion.deps.json
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\bin\Debug\netcoreapp2.0\Ecuacion.runtimeconfig.json
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\bin\Debug\netcoreapp2.0\Ecuacion.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\bin\Debug\netcoreapp2.0\Ecuacion.dll
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\bin\Debug\netcoreapp2.0\Ecuacion.pdb
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\obj\Debug\netcoreapp2.0\Ecuacion.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\obj\Debug\netcoreapp2.0\Ecuacion.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\obj\Debug\netcoreapp2.0\Ecuacion.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\obj\Debug\netcoreapp2.0\Ecuacion.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\obj\Debug\netcoreapp2.0\Ecuacion.dll
+C:\Users\Flemi\source\repos\Ecuacion\Ecuacion\obj\Debug\netcoreapp2.0\Ecuacion.pdb
