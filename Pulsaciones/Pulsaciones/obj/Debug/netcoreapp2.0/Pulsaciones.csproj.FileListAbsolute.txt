@@ -1,0 +1,11 @@
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\bin\Debug\netcoreapp2.0\Pulsaciones.deps.json
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\bin\Debug\netcoreapp2.0\Pulsaciones.runtimeconfig.json
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\bin\Debug\netcoreapp2.0\Pulsaciones.runtimeconfig.dev.json
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\bin\Debug\netcoreapp2.0\Pulsaciones.dll
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\bin\Debug\netcoreapp2.0\Pulsaciones.pdb
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\obj\Debug\netcoreapp2.0\Pulsaciones.csprojResolveAssemblyReference.cache
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\obj\Debug\netcoreapp2.0\Pulsaciones.csproj.CoreCompileInputs.cache
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\obj\Debug\netcoreapp2.0\Pulsaciones.AssemblyInfoInputs.cache
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\obj\Debug\netcoreapp2.0\Pulsaciones.AssemblyInfo.cs
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\obj\Debug\netcoreapp2.0\Pulsaciones.dll
+c:\users\flemi\source\repos\Pulsaciones\Pulsaciones\obj\Debug\netcoreapp2.0\Pulsaciones.pdb

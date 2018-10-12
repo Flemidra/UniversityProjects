@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\bin\Debug\netcoreapp2.0\PuntuacionesPromedio.deps.json
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\bin\Debug\netcoreapp2.0\PuntuacionesPromedio.runtimeconfig.json
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\bin\Debug\netcoreapp2.0\PuntuacionesPromedio.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\bin\Debug\netcoreapp2.0\PuntuacionesPromedio.dll
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\bin\Debug\netcoreapp2.0\PuntuacionesPromedio.pdb
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\obj\Debug\netcoreapp2.0\PuntuacionesPromedio.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\obj\Debug\netcoreapp2.0\PuntuacionesPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\obj\Debug\netcoreapp2.0\PuntuacionesPromedio.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\obj\Debug\netcoreapp2.0\PuntuacionesPromedio.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\obj\Debug\netcoreapp2.0\PuntuacionesPromedio.dll
+C:\Users\Flemi\source\repos\PuntuacionesPromedio\PuntuacionesPromedio\obj\Debug\netcoreapp2.0\PuntuacionesPromedio.pdb
