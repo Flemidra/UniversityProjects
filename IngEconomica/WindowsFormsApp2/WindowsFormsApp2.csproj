@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F4449F3-D358-4069-B9F0-5A18EECD4BD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BeneficioCosto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BeneficioCosto.Designer.cs">
+      <DependentUpon>BeneficioCosto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValorPresenteNeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValorPresenteNeto.Designer.cs">
+      <DependentUpon>ValorPresenteNeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculoTIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculoTIR.Designer.cs">
+      <DependentUpon>CalculoTIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulasGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulasGenerales.Designer.cs">
+      <DependentUpon>FormulasGenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OptionSelect.Designer.cs">
+      <DependentUpon>OptionSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewCalc.Designer.cs">
+      <DependentUpon>NewCalc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewItemDebit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewItemDebit.Designer.cs">
+      <DependentUpon>NewItemDebit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BeneficioCosto.resx">
+      <DependentUpon>BeneficioCosto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValorPresenteNeto.resx">
+      <DependentUpon>ValorPresenteNeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculoTIR.resx">
+      <DependentUpon>CalculoTIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulasGenerales.resx">
+      <DependentUpon>FormulasGenerales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionSelect.resx">
+      <DependentUpon>OptionSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewCalc.resx">
+      <DependentUpon>NewCalc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewItemDebit.resx">
+      <DependentUpon>NewItemDebit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile-Menu-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
