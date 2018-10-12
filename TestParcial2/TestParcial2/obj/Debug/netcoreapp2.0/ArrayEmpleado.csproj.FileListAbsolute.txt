@@ -1,0 +1,22 @@
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.deps.json
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.runtimeconfig.json
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.dll
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.pdb
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.dll
+C:\Users\Flemi\source\repos\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.pdb
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.deps.json
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.runtimeconfig.json
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.runtimeconfig.dev.json
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.dll
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\bin\Debug\netcoreapp2.0\ArrayEmpleado.pdb
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.AssemblyInfoInputs.cache
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.AssemblyInfo.cs
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.dll
+C:\Users\Flemi\Dropbox\Visual Studio\TestParcial2\TestParcial2\obj\Debug\netcoreapp2.0\ArrayEmpleado.pdb
