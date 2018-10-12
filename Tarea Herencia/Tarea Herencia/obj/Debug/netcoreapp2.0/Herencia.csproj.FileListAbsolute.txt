@@ -1,0 +1,11 @@
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\bin\Debug\netcoreapp2.0\Herencia.deps.json
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\bin\Debug\netcoreapp2.0\Herencia.runtimeconfig.json
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\bin\Debug\netcoreapp2.0\Herencia.runtimeconfig.dev.json
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\bin\Debug\netcoreapp2.0\Herencia.dll
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\bin\Debug\netcoreapp2.0\Herencia.pdb
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Herencia.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Herencia.AssemblyInfo.cs
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Herencia.dll
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Herencia.pdb

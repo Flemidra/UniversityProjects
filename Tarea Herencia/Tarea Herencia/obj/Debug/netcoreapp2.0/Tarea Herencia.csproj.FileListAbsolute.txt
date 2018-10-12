@@ -1,0 +1,4 @@
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Tarea Herencia.csprojResolveAssemblyReference.cache
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Tarea Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Tarea Herencia.AssemblyInfoInputs.cache
+C:\Users\Flemi\source\repos\Tarea Herencia\Tarea Herencia\obj\Debug\netcoreapp2.0\Tarea Herencia.AssemblyInfo.cs
